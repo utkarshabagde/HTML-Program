@@ -1,0 +1,25 @@
+body{background-color : papayaWhip; }
+
+h1 {background-color : skyblue; color: maroon; font-size: 25px; }
+
+h2{ background-color : cyan; color: maroon; font-size : 20px; }
+
+p1{color: darkgreen; font-size : 18px; }
+
+p2{color: navy; font-size : 20px; }
+
+#twinkle {
+border-collapse : collapse;
+font-family: Comic Sans MS;
+width : 100%;
+}
+
+#twinkle tr:nth-child(odd) {background-color: pink;}
+
+#twinkle th, #twinkle td {
+text-align : center;
+border: 1px solid maroon; }
+
+#twinkle th { background-color: red; color: white; }
+
+#twinkle td {color : blue; }
